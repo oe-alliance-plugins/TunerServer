@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "",
+  "description_recipe": "Builds a virtual channels list",
+  "history_source_dir": "TunerServer",
+  "internal_package_name": "enigma2-plugin-extensions-tunerserver",
+  "module_dir_name": "TunerServer",
+  "output_subdir": "TunerServer",
+  "package_name": "enigma2-plugin-extensions-tunerserver",
+  "plugin_src_rel": "TunerServer",
+  "python_package": "TunerServer",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "TunerServer",
+  "rrecommends": "",
+  "rreplaces": ""
+}
