@@ -21,7 +21,6 @@ from Screens.MessageBox import MessageBox
 from Components.ActionMap import ActionMap
 from Components.Label import Label
 from Components.Network import iNetwork
-from Tools.Directories import fileExists
 from enigma import eServiceCenter, eServiceReference, eTimer
 try:
 	from Components.SystemInfo import BoxInfo
@@ -29,7 +28,7 @@ try:
 except:
 	from boxbranding import getImageDistro
 	IMAGEDISTRO = getImageDistro()
-from shutil import rmtree, move, copy
+from shutil import rmtree
 import os
 
 
@@ -132,7 +131,7 @@ NOTE: The server is built, based on your current ip and the current channel list
 				filename = path + "/" + n2 + self.cleanName(channel[1]) + ".m3u"
 				try:
 					out = open(filename, "w")
-				except:
+				except OSError:
 					continue
 				out.write("#EXTM3U\n")
 				out.write("#EXTINF:-1," + channel[1] + "\n")
