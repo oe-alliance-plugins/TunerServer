@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-31 10:40+0200\n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: none\n"
@@ -20,48 +20,63 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:190 ../plugin.py:192
 msgid "Allow Streaming From Box Tuners"
 msgstr "Sta streamen vanaf de tuners van de box toe"
 
+#: ../plugin.py:116
 msgid "Build Complete!"
 msgstr "Bouwen gereed!"
 
+#: ../plugin.py:67
 msgid "Build Server"
 msgstr "Bouwserver"
 
+#: ../plugin.py:69
 msgid "Close"
 msgstr "Sluit"
 
+#: ../plugin.py:64
 msgid "Current Status:"
 msgstr "Huidiges status:"
 
+#: ../plugin.py:68
 msgid "Disable Server"
 msgstr "Schakel server uit"
 
+#: ../plugin.py:157
 msgid "Info"
 msgstr "Info"
 
+#: ../plugin.py:65
 msgid "Server Disabled"
 msgstr "Server uitgeschakeld"
 
+#: ../plugin.py:66
 msgid "Server Enabled"
 msgstr "Server ingeschakeld"
 
+#: ../plugin.py:159
 msgid "Server now disabled!"
 msgstr "Server is nu uitgeschakeld!"
 
+#: ../plugin.py:91
 msgid "Sorry, but you need to have a device mounted at '/media/hd'"
 msgstr "Sorry, maar u moet een device gemount hebben op '/media/hd'"
 
+#: ../plugin.py:192
 msgid "Tuner Server"
 msgstr "Tunerserver"
 
+#: ../plugin.py:156
 msgid "Tuner Server Disabled."
 msgstr "Tunerserver uitgeschakeld."
 
+#: ../plugin.py:52 ../plugin.py:180 ../plugin.py:190
 msgid "Tuner Server setup"
 msgstr "Tunerserver instellingen"
 
+#: ../plugin.py:153
 msgid ""
 "Your server is now being deleted\n"
 "Please Wait ..."
@@ -69,6 +84,7 @@ msgstr ""
 "Uw server wordt nu verwijderd\n"
 "Even wachten ..."
 
+#: ../plugin.py:88
 msgid ""
 "Your server is now building\n"
 "Please wait ..."

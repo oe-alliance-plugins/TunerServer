@@ -8,65 +8,85 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:55+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2022-11-05 07:45+0100\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "X-Generator: Lokalize 22.08.2\n"
 
+#: ../plugin.py:190 ../plugin.py:192
 msgid "Allow Streaming From Box Tuners"
 msgstr "Consenti streaming dal sintonizzatore del ricevitore"
 
+#: ../plugin.py:116
 msgid "Build Complete!"
 msgstr "Costruzione completa!"
 
+#: ../plugin.py:67
 msgid "Build Server"
 msgstr "Costruisci server"
 
+#: ../plugin.py:69
 msgid "Close"
 msgstr "Chiudi"
 
+#: ../plugin.py:64
 msgid "Current Status:"
 msgstr "Stato attuale:"
 
+#: ../plugin.py:68
 msgid "Disable Server"
 msgstr "Disabilita server"
 
+#: ../plugin.py:157
 msgid "Info"
 msgstr "Informazioni"
 
+#: ../plugin.py:65
 msgid "Server Disabled"
 msgstr "Server disabilitato"
 
+#: ../plugin.py:66
 msgid "Server Enabled"
 msgstr "Server abilitato"
 
+#: ../plugin.py:159
 msgid "Server now disabled!"
 msgstr "Server ora disabilitato!"
 
+#: ../plugin.py:91
 msgid "Sorry, but you need to have a device mounted at '/media/hd'"
 msgstr "Spiacenti, ma devi avere un dispositivo montato su '/media/hd'"
 
+#: ../plugin.py:192
 msgid "Tuner Server"
 msgstr "Sintonizzatore server"
 
+#: ../plugin.py:156
 msgid "Tuner Server Disabled."
 msgstr "Sintonizzatore server disabilitato"
 
+#: ../plugin.py:52 ../plugin.py:180 ../plugin.py:190
 msgid "Tuner Server setup"
 msgstr "Impostazioni sintonizzatore server"
 
+#: ../plugin.py:153
 msgid ""
 "Your server is now being deleted\n"
 "Please Wait ..."
-msgstr "Il tuo server è ora in fase di eliminazione\nAttendere prego..."
+msgstr ""
+"Il tuo server è ora in fase di eliminazione\n"
+"Attendere prego..."
 
+#: ../plugin.py:88
 msgid ""
 "Your server is now building\n"
 "Please wait ..."
-msgstr "Il tuo server è ora in costruzione\nAttendere prego..."
+msgstr ""
+"Il tuo server è ora in costruzione\n"
+"Attendere prego..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TunerServer - oe-alliance\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2017-07-06 08:18+0300\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P.\n"
@@ -15,48 +15,63 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:190 ../plugin.py:192
 msgid "Allow Streaming From Box Tuners"
 msgstr "Vaizdo transliacija iš nuotolinių imtuvų"
 
+#: ../plugin.py:116
 msgid "Build Complete!"
 msgstr "Kūrimas baigtas."
 
+#: ../plugin.py:67
 msgid "Build Server"
 msgstr "Sukurti serverį"
 
+#: ../plugin.py:69
 msgid "Close"
 msgstr "Uždaryti"
 
+#: ../plugin.py:64
 msgid "Current Status:"
 msgstr "Būsena:"
 
+#: ../plugin.py:68
 msgid "Disable Server"
 msgstr "Išjungti serverį"
 
+#: ../plugin.py:157
 msgid "Info"
 msgstr "Informacija"
 
+#: ../plugin.py:65
 msgid "Server Disabled"
 msgstr "Serveris išjungtas"
 
+#: ../plugin.py:66
 msgid "Server Enabled"
 msgstr "Serveris įjungtas"
 
+#: ../plugin.py:159
 msgid "Server now disabled!"
 msgstr "Serveris išjungtas!"
 
+#: ../plugin.py:91
 msgid "Sorry, but you need to have a device mounted at '/media/hd'"
 msgstr "Atleiskite, į '/media/hd' turi būti pajungra laikmena"
 
+#: ../plugin.py:192
 msgid "Tuner Server"
 msgstr "Imtuvo serveris"
 
+#: ../plugin.py:156
 msgid "Tuner Server Disabled."
 msgstr "Imtuvo serveris išjungtas."
 
+#: ../plugin.py:52 ../plugin.py:180 ../plugin.py:190
 msgid "Tuner Server setup"
 msgstr "Nuotolinio imtuvo serverio sąranka"
 
+#: ../plugin.py:153
 msgid ""
 "Your server is now being deleted\n"
 "Please Wait ..."
@@ -64,6 +79,7 @@ msgstr ""
 "Vyksta serverio šalinimas\n"
 "Palaukite..."
 
+#: ../plugin.py:88
 msgid ""
 "Your server is now building\n"
 "Please wait ..."

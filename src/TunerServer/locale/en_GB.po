@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 14:07+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: none\n"
@@ -18,48 +18,63 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.7\n"
 
+#: ../plugin.py:190 ../plugin.py:192
 msgid "Allow Streaming From Box Tuners"
 msgstr "Allow Streaming From Box Tuners"
 
+#: ../plugin.py:116
 msgid "Build Complete!"
 msgstr "Build Complete!"
 
+#: ../plugin.py:67
 msgid "Build Server"
 msgstr "Build Server"
 
+#: ../plugin.py:69
 msgid "Close"
 msgstr "Close"
 
+#: ../plugin.py:64
 msgid "Current Status:"
 msgstr "Current Status:"
 
+#: ../plugin.py:68
 msgid "Disable Server"
 msgstr "Disable Server"
 
+#: ../plugin.py:157
 msgid "Info"
 msgstr "Info"
 
+#: ../plugin.py:65
 msgid "Server Disabled"
 msgstr "Server Disabled"
 
+#: ../plugin.py:66
 msgid "Server Enabled"
 msgstr "Server Enabled"
 
+#: ../plugin.py:159
 msgid "Server now disabled!"
 msgstr "Server now disabled!"
 
+#: ../plugin.py:91
 msgid "Sorry, but you need to have a device mounted at '/media/hd'"
 msgstr "Sorry, but you need to have a device mounted at '/media/hd'"
 
+#: ../plugin.py:192
 msgid "Tuner Server"
 msgstr "Tuner Server"
 
+#: ../plugin.py:156
 msgid "Tuner Server Disabled."
 msgstr "Tuner Server Disabled."
 
+#: ../plugin.py:52 ../plugin.py:180 ../plugin.py:190
 msgid "Tuner Server setup"
 msgstr "Tuner Server setup"
 
+#: ../plugin.py:153
 msgid ""
 "Your server is now being deleted\n"
 "Please Wait ..."
@@ -67,6 +82,7 @@ msgstr ""
 "Your server is now being deleted\n"
 "Please Wait ..."
 
+#: ../plugin.py:88
 msgid ""
 "Your server is now building\n"
 "Please wait ..."

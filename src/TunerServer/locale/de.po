@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-10-14 22:41+0200\n"
 "Last-Translator: Manfred Aabye <openmanniland@gmx.de>\n"
 "Language-Team: \n"
@@ -18,53 +18,69 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#: ../plugin.py:190 ../plugin.py:192
 msgid "Allow Streaming From Box Tuners"
 msgstr "Streaming von Box Tunern erlauben"
 
+#: ../plugin.py:116
 msgid "Build Complete!"
 msgstr "Build Komplett!"
 
+#: ../plugin.py:67
 msgid "Build Server"
 msgstr "Build Server"
 
+#: ../plugin.py:69
 msgid "Close"
 msgstr "Schließen"
 
+#: ../plugin.py:64
 msgid "Current Status:"
 msgstr "Aktueller Stand:"
 
+#: ../plugin.py:68
 msgid "Disable Server"
 msgstr "Server deaktivieren"
 
+#: ../plugin.py:157
 msgid "Info"
 msgstr "Info"
 
+#: ../plugin.py:65
 msgid "Server Disabled"
 msgstr "Server deaktiviert"
 
+#: ../plugin.py:66
 msgid "Server Enabled"
 msgstr "Server aktiviert"
 
+#: ../plugin.py:159
 msgid "Server now disabled!"
 msgstr "Server jetzt deaktiviert!"
 
+#: ../plugin.py:91
 msgid "Sorry, but you need to have a device mounted at '/media/hd'"
 msgstr "Sorry, aber Sie müssen ein Gerät auf '/Media/HD ' gemounted haben"
 
+#: ../plugin.py:192
 msgid "Tuner Server"
 msgstr "Tuner Server"
 
+#: ../plugin.py:156
 msgid "Tuner Server Disabled."
 msgstr "Tuner Server deaktiviert."
 
+#: ../plugin.py:52 ../plugin.py:180 ../plugin.py:190
 msgid "Tuner Server setup"
 msgstr "Tuner Server Setup"
 
+#: ../plugin.py:153
 msgid ""
 "Your server is now being deleted\n"
 "Please Wait ..."
 msgstr "Ihr Server wird jetzt gelöscht. Bitte warten..."
 
+#: ../plugin.py:88
 msgid ""
 "Your server is now building\n"
 "Please wait ..."

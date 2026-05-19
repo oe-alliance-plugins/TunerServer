@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the TunerServer package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: TunerServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:49+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,53 +17,69 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../plugin.py:190 ../plugin.py:192
 msgid "Allow Streaming From Box Tuners"
 msgstr ""
 
+#: ../plugin.py:116
 msgid "Build Complete!"
 msgstr ""
 
+#: ../plugin.py:67
 msgid "Build Server"
 msgstr ""
 
+#: ../plugin.py:69
 msgid "Close"
 msgstr ""
 
+#: ../plugin.py:64
 msgid "Current Status:"
 msgstr ""
 
+#: ../plugin.py:68
 msgid "Disable Server"
 msgstr ""
 
+#: ../plugin.py:157
 msgid "Info"
 msgstr ""
 
+#: ../plugin.py:65
 msgid "Server Disabled"
 msgstr ""
 
+#: ../plugin.py:66
 msgid "Server Enabled"
 msgstr ""
 
+#: ../plugin.py:159
 msgid "Server now disabled!"
 msgstr ""
 
+#: ../plugin.py:91
 msgid "Sorry, but you need to have a device mounted at '/media/hd'"
 msgstr ""
 
+#: ../plugin.py:192
 msgid "Tuner Server"
 msgstr ""
 
+#: ../plugin.py:156
 msgid "Tuner Server Disabled."
 msgstr ""
 
+#: ../plugin.py:52 ../plugin.py:180 ../plugin.py:190
 msgid "Tuner Server setup"
 msgstr ""
 
+#: ../plugin.py:153
 msgid ""
 "Your server is now being deleted\n"
 "Please Wait ..."
 msgstr ""
 
+#: ../plugin.py:88
 msgid ""
 "Your server is now building\n"
 "Please wait ..."
